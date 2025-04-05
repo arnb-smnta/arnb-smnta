@@ -1,37 +1,26 @@
-# 🚀 I've Moved! 👋
+# ⚠️ Temporary Notice
 
-Hey there! 👨‍💻  
-Thanks for stopping by. This GitHub account **@arnab-smnta** has officially **migrated** to a new home!
-
----
-
-## 📍 My New GitHub Profile 👉 [@learner-enthusiast](https://github.com/learner-enthusiast)
-
-✨ All my current and future projects, contributions, and open-source adventures now live there.
+Hey there! 👋  
+You've landed on my old GitHub profile: **[@arnab-smnta](https://github.com/arnab-smnta)**
 
 ---
 
-## Why the move?
+## 🔀 I’ve Temporarily Moved To:  
+### 👉 [@learner-enthusiast](https://github.com/learner-enthusiast)
 
-Sometimes, a fresh start or a better identity is all it takes to keep growing.  
-So, I’ve decided to centralize everything under a more meaningful username: `learner-enthusiast` – because that’s what I truly am 💡
-
----
-
-## 🔗 Useful Links
-
-- 🔄 [Redirect to New Profile](https://github.com/learner-enthusiast)
-- 📬 Reach out via GitHub Discussions or Issues on my new profile
+I’m currently using this new profile for all my recent work, collaborations, and open-source contributions.
 
 ---
 
-## ❤️ Thank You
+### 🔧 This account may remain idle or archived for now.
 
-If you've starred, forked, or followed this account—thank you!  
-Please head over to the new profile and **connect with me there**!
+Please check out the new profile for:
+
+- ✨ Latest projects  
+- 🛠 Active repositories  
+- 📬 Communication & collaboration  
 
 ---
 
-> _"Stay curious, keep building, and never stop learning."_  
+> 💬 _This is just a temporary redirect — thanks for your patience and support!_  
 > — [@learner-enthusiast](https://github.com/learner-enthusiast)
-
